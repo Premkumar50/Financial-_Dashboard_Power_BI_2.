@@ -4,6 +4,9 @@
 
 This is my second Power BI project, created while learning data visualization and financial data analysis. The dashboard presents financial data to help understand revenue, expenses, profit, and business performance.
 
+
+https://github.com/Premkumar50/Financial-_Dashboard_Power_BI_2./blob/main/financial_dataset.xlsx
+
 ## 🛠️ Tools Used
 
 * Microsoft Power BI
