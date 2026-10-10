@@ -25,7 +25,7 @@ This is my second Power BI project, created while learning data visualization an
 
 ## 🖼️ Dashboard Preview
 
-![Financial Dashboard](Image%20Power%20BI.png)
+![Financial Dashboard](https://github.com/Premkumar50/Financial-_Dashboard_Power_BI_2./blob/main/Image%20Power%20BI.png)
 
 ## 🚀 How to Use
 
