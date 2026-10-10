@@ -4,8 +4,10 @@
 
 This is my second Power BI project, created while learning data visualization and financial data analysis. The dashboard presents financial data to help understand revenue, expenses, profit, and business performance.
 
+## Dataset used
+- <a href="https://github.com/Premkumar50/Financial-_Dashboard_Power_BI_2./blob/main/financial_dataset.xlsx">Row Dataset</a>
+- <a href="https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/commit/9977c3cc841cb10eaa756a4d038e9469bd9603a8">Dashboard</a>
 
-https://github.com/Premkumar50/Financial-_Dashboard_Power_BI_2./blob/main/financial_dataset.xlsx
 
 ## 🛠️ Tools Used
 
